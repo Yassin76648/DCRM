@@ -34,7 +34,7 @@ The system allows users to register, log in, add customer records, update them, 
 
 ```bash
 git clone https://github.com/Yassin76648/DCRM.git
-cd your-repo-name
+cd DCRM
 ```
 
 ### **2. Create a virtual environment**
