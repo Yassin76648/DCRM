@@ -120,4 +120,3 @@ Pull requests are welcome.
 
 This project is open source.
 (Use MIT License if you want.)
-Do you want me to prepare the final polished README for you?
