@@ -33,7 +33,7 @@ The system allows users to register, log in, add customer records, update them, 
 ### **1. Clone the project**
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Yassin76648/DCRM.git
 cd your-repo-name
 ```
 
@@ -55,12 +55,6 @@ venv\Scripts\activate
 
 ```bash
 source venv/bin/activate
-```
-
-### **4. Install dependencies**
-
-```bash
-pip install -r requirements.txt
 ```
 
 ### **5. Create MySQL Database**
